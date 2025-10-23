@@ -21,10 +21,10 @@
 
 ## 💡 About Me
 
-* [cite_start]**📚 Education:** BSc (Hons) Computer Science at Informatics Institute of Technology, affiliated with University of Westminster (2023-2027)[cite: 9, 10, 22].
-* [cite_start]**💻 Focus:** Experienced in applying academic knowledge to personal projects and coursework[cite: 6].
-* [cite_start]**🌱 Background:** Solid foundation in programming, web development, and software engineering principles[cite: 5].
-* [cite_start]**📍 Location:** Sri Lanka[cite: 3].
+* **📚 Education:** BSc (Hons) Computer Science at Informatics Institute of Technology, affiliated with University of Westminster (2023-2027)[cite: 9, 10, 22].
+* **💻 Focus:** Experienced in applying academic knowledge to personal projects and coursework[cite: 6].
+* **🌱 Background:** Solid foundation in programming, web development, and software engineering principles[cite: 5].
+* **📍 Location:** Sri Lanka[cite: 3].
 
 ---
 
@@ -50,7 +50,7 @@
 ### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
@@ -58,25 +58,17 @@
 
 ### Databases & Tools
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets">
+  
 </p>
 
 ---
 
-## 🚀 Key Projects
-
-| Project Name | Summary | Tech Stack |
-| :--- | :--- | :--- |
-| **InnovaStruct** | [cite_start]Full-stack platform connecting clients with construction companies, featuring a marketplace and tender bidding system[cite: 35]. | [cite_start]React, Spring Boot, MongoDB [cite: 36] |
-| **Event Ticketing System** | [cite_start]Full stack real-time ticketing simulation with thread-safe operations using synchronized methods[cite: 43]. | [cite_start]Spring Boot, React [cite: 44] |
-| **Portfolio Website** | [cite_start]Designed and launched a responsive personal portfolio to showcase skills and projects[cite: 31]. | [cite_start]React, Tailwind CSS, Framer Motion [cite: 32] |
-| **Real Estate Search Web App** | [cite_start]Enables users to find, view, and manage real estate listings with advanced filtering and favorites management[cite: 39]. | [cite_start]React [cite: 40] |
-| **Currency Converter** | [cite_start]Developed a real-time application integrating REST APIs to fetch up-to-date exchange rates[cite: 27]. | [cite_start]Java, JavaFX, REST API [cite: 28] |
-
----
 
 ## 📊 GitHub Stats
 
