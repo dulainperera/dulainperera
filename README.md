@@ -21,10 +21,10 @@
 
 ## 💡 About Me
 
-* **📚 Education:** BSc (Hons) Computer Science at Informatics Institute of Technology, affiliated with University of Westminster (2023-2027)[cite: 9, 10, 22].
-* **💻 Focus:** Experienced in applying academic knowledge to personal projects and coursework[cite: 6].
-* **🌱 Background:** Solid foundation in programming, web development, and software engineering principles[cite: 5].
-* **📍 Location:** Sri Lanka[cite: 3].
+* **📚 Education:** BSc (Hons) Computer Science at Informatics Institute of Technology, affiliated with University of Westminster (2023-2027)
+* **💻 Focus:** Experienced in applying academic knowledge to personal projects and coursework
+* **🌱 Background:** Solid foundation in programming, web development, and software engineering principles
+* **📍 Location:** Sri Lanka
 
 ---
 
