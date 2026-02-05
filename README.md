@@ -1,25 +1,12 @@
-## Hi there 👋
+## I'm Dulain 👋
 
 <div align="center">
-  <img src="https://www.canva.com/create/profile-pictures/" alt="Dulain Perera" width="180" style="border-radius: 50%; border: 4px solid #049F82;">
   
   # Hi, I'm Dulain Perera 👋
   A dedicated Computer Science student passionate about full-stack development and innovative tech solutions.
   <br>
+
   
-  <p align="center">
-    <a href="https://linkedin.com/in/dulain-perera-091778292" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:dulainp337@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
-</div>
-
----
-
-## 💡 About Me
 
 * **📚 Education:** BSc (Hons) Computer Science at Informatics Institute of Technology, affiliated with University of Westminster (2023-2027)
 * **💻 Focus:** Experienced in applying academic knowledge to personal projects and coursework
@@ -72,16 +59,20 @@
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulainperera&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Dulain Perera GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulainperera&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulainperera&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulainperera&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulainperera&layout=compact&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulainperera&theme=dark&hide_border=true" />
 </div>
 
 ---
